@@ -69,3 +69,5 @@ function exibirMensagemInicial() {
 }
 
 //Textos Html
+
+//Teste de Commit
